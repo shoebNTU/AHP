@@ -208,7 +208,7 @@ def initSession():
 
 if __name__ == "__main__":
 
-        st.sidebar.image("apps/imgs/siemens_logo.png", width = 300)
+        st.sidebar.image("Apps/imgs/siemens_logo.png", width = 300)
 
         st.title("Ranking of interventions")
 
