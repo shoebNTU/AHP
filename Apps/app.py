@@ -356,12 +356,7 @@ if __name__ == "__main__":
              
  
         st.sidebar.markdown("#### **Copyright &copy; 2020 DA REAMS, Siemens Mobility**")
-        st.sidebar.info(
-                """
-                This app is maintained by Vinod. You can reach for support at
-                [vinod.rajendran@siemens.com](vinod.rajendran@siemens.com).
-        """
-        )
+
 
 
 
